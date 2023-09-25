@@ -30,8 +30,6 @@ namespace OperatorsAndExpressions
             // - Divides the counter by 2 using the /= operator.
             // - Displays the current value of counter after each operation.
             // Enter your code below
-
-
         }
     }
 }
